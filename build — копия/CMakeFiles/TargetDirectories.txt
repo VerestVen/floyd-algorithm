@@ -1,3 +1,0 @@
-/Users/kirill/Desktop/МатМех/АлгАн/лекции Осипов/3 семестр/Алгоритм Флойда -Уоршелла/build/CMakeFiles/floyd_program.dir
-/Users/kirill/Desktop/МатМех/АлгАн/лекции Осипов/3 семестр/Алгоритм Флойда -Уоршелла/build/CMakeFiles/edit_cache.dir
-/Users/kirill/Desktop/МатМех/АлгАн/лекции Осипов/3 семестр/Алгоритм Флойда -Уоршелла/build/CMakeFiles/rebuild_cache.dir
